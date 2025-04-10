@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kppavexgr-dotnet-basic-repository
+spec:
+  url: https://github.com/xjiangorg/kppavexgr-dotnet-basic
